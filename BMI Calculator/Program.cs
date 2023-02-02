@@ -9,8 +9,11 @@ Console.Title = "BMI Calculator";
 Console.WriteLine(Console.Title);
 
 // Welcome User
-Console.WriteLine("\tWelcome to the " + Console.Title + "program.");
-Console.WriteLine("I'm going to ask you a few Questions " + "and estimate your Body Mass Index");
+Console.WriteLine("\tWelcome to the " + Console.Title );
+Console.WriteLine("I'm going to ask you a few Questions " + "and estimate your Body Mass Index.");
+
+
+
 
 
 
@@ -18,7 +21,7 @@ Console.WriteLine("I'm going to ask you a few Questions " + "and estimate your B
 
 
 // exit the program
-Console.Write("Press enter to quit.");
+Console.Write("\nPress enter to quit.");
 Console.Read();
 
 
